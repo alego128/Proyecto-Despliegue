@@ -1,5 +1,6 @@
 # Proyecto de Despliegue - UD4
-Autor: Alejandro
+Autor: Alejandro González Román
+
 Fecha: Febrero 2026
 
 1. Infraestructura de Servidor y Transferencia
